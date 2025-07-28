@@ -12,7 +12,7 @@ The entire process, from research to writing and submission, was both challengin
 IEEE Paper Link: https://lnkd.in/dxiSgriG
 Conference Link: https://lnkd.in/d8nvrHvQ 
 
-# 🍎 Fresh vs Rotten Fruit Classification using CNN
+# 🍎 Freshify - Fresh vs Rotten Fruit Classification using CNN
 
 A deep learning-based image classification system that detects whether a fruit (apple, banana, or orange) is fresh or rotten using Convolutional Neural Networks (CNN). This project demonstrates the power of computer vision in agricultural and supply chain automation.
 
