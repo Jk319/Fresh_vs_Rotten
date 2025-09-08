@@ -89,15 +89,16 @@ A deep learning-based image classification system that detects whether a fruit (
 ---
 
 ## 📁 Folder Structure
-📦 FreshVsRotten
-┣ 📁 images/               # Sample fruits images
-┣ 📁 models/               # Trained CNN model
-┣ 📜 trainingonefruit.ipynb
-┣ 📜 testingonefruit.ipynb
-┣ 📜 README.md
-┗ 📜 requirements.txt
+```plaintext
 
----
+FreshVsRotten/
+├── images/                 # Sample fruits images
+├── models/                 # Trained CNN model
+├── trainingonefruit.ipynb  # Model training notebook
+├── testingonefruit.ipynb   # Model testing notebook
+├── README.md               # Documentation
+└── requirements.txt        # Dependencies
+```
 
 ## 📌 Conclusion
 
